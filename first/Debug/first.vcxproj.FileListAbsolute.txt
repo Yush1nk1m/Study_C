@@ -1,0 +1,2 @@
+C:\Users\kys01\Desktop\공부\C\first\Debug\first.exe
+C:\Users\kys01\Desktop\공부\C\first\Debug\first.pdb

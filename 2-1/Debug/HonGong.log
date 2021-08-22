@@ -1,0 +1,2 @@
+﻿예제2-2.obj : error LNK2005: _main이(가) 예제2-1.obj에 이미 정의되어 있습니다.
+C:\Users\kys01\Desktop\공부\C\HonGong\Debug\HonGong.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
